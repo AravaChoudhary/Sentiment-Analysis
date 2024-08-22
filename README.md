@@ -6,7 +6,7 @@ Objective:
 The goal of this project is to classify social media posts or tweets as positive, negative, or neutral based on the text content using Support Vector Machine (SVM) with text processing techniques.
 
 Dataset:
-Datasets like the Twitter Sentiment Analysis dataset from Kaggle, which includes tweets labeled with sentiment (positive, negative, or neutral).
+Datasets like the Twitter Sentiment Analysis dataset , which includes tweets labeled with sentiment (positive, negative, or neutral).
 
 Steps to Implement:
 
