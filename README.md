@@ -1,4 +1,4 @@
-# Sentiment Analysis of Social Media Posts (Support Vector Machine)
+# Sentiment Analysis of Social Media Posts
 
 Objective:
 The goal of this project is to classify social media posts or tweets as positive, negative, or neutral based on the text content using Support Vector Machine (SVM) with text processing techniques.
