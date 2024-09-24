@@ -26,7 +26,7 @@ Steps to Implement:
   
 	5.	Model Building:
 		Splitting the Dataset: Split the data into training and testing sets (e.g., 80-20 split).
-		Model Training: Train an SVM model with different kernels (linear, RBF) on the training data.
+		Model Training: Train a Random Forest model.
 		Hyperparameter Tuning: Use grid search to optimize hyperparameters like the regularization parameter (C) and the kernel coefficient (gamma) for the SVM.
   
 	6.	Model Evaluation:
